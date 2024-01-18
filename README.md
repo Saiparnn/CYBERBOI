@@ -152,4 +152,6 @@ ________________________________________________________________________________
 
 ### References 🖥️
 [www.acunetix.com](https://www.acunetix.com) <br>
-[www.checkfirewalls.com](https://www.checkfirewalls.com/acunetix.asp)
+[www.checkfirewalls.com](https://www.checkfirewalls.com/acunetix.asp) <br>
+[Install Kali Linux](https://www.kali.org/docs/installation/hard-disk-install/) <br>
+[Acunetix Install in Kali Linux](https://github.com/securi3ytalent/acunetix-13-kali-linux.git)
